@@ -1,10 +1,14 @@
 <script>
 	export let name;
+	name = 'Manuel Hernández Quiroga';
 </script>
 
 <main>
 	<h1>Hello {name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<span>
+		<i class="fa-regular fa-user"></i>
+	</span>
 </main>
 
 <style>
