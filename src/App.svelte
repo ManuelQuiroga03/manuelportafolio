@@ -9,15 +9,12 @@
 
 <main>
 	<Navbar></Navbar>
-	<!-- <h1>Hola, soy {name}.</h1>
-	<p>Soy Ingeniero en Informática especializado en el desarrollo de software.</p>
-	<p>Tengo habilidades en desarrollo Frontend y Backend, incluyendo:</p>
-	<ul>
-		<li>HTML, CSS, JavaScript (y frameworks como React o Vue para Frontend)</li>
-		<li>Node.js, Express (para Backend)</li>
-		<li>Bases de datos SQL (como MySQL, PostgreSQL)</li>
-	</ul>
-	<p>Puedes ver más sobre mi trabajo en mi <a href="https://github.com/tuusuario">perfil de GitHub</a>.</p> -->
+	
+	<h1>Hello {name}!</h1>
+	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<span>
+		<i class="fa-regular fa-user"></i>
+	</span>
 </main>
 
 <style>
